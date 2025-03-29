@@ -1,0 +1,14 @@
+{
+    "unique_id": 55,
+    "start_time": "2025-03-28 09:05:10",
+    "status": "Up",
+    "domain": "github.com",
+    "total_scans": 5,
+    "successful_scans": 5,
+    "failed_scans": 0,
+    "last_scan_time": "2025-03-28 10:02:49",
+    "details": "Ping failed, Connection successful",
+    "duration": 1,
+    "progress": "details/2025/03/28/github.com",
+    "extra_json_files": []
+}

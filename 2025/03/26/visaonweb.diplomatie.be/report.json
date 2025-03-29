@@ -1,0 +1,14 @@
+{
+    "unique_id": 54,
+    "start_time": "2025-03-26 20:28:03",
+    "status": "Up",
+    "domain": "visaonweb.diplomatie.be",
+    "total_scans": 5,
+    "successful_scans": 5,
+    "failed_scans": 0,
+    "last_scan_time": "2025-03-26 21:18:45",
+    "details": "Ping failed, Connection successful",
+    "duration": 1,
+    "progress": "details/2025/03/26/visaonweb.diplomatie.be",
+    "extra_json_files": []
+}

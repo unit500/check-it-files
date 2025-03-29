@@ -1,0 +1,14 @@
+{
+    "unique_id": 56,
+    "start_time": "2025-03-28 09:05:30",
+    "status": "Up",
+    "domain": "wolt.com",
+    "total_scans": 5,
+    "successful_scans": 5,
+    "failed_scans": 0,
+    "last_scan_time": "2025-03-28 10:02:52",
+    "details": "Ping failed, Connection successful",
+    "duration": 1,
+    "progress": "details/2025/03/28/wolt.com",
+    "extra_json_files": []
+}

@@ -1,0 +1,14 @@
+{
+    "unique_id": 46,
+    "start_time": "2025-03-24 11:02:26",
+    "status": "Up",
+    "domain": "www.citydev.brussels",
+    "total_scans": 103,
+    "successful_scans": 103,
+    "failed_scans": 0,
+    "last_scan_time": "2025-03-25 10:55:53",
+    "details": "Ping failed, Connection successful",
+    "duration": 24,
+    "progress": "details/2025/03/24/www.citydev.brussels",
+    "extra_json_files": []
+}

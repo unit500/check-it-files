@@ -1,0 +1,14 @@
+{
+    "unique_id": 52,
+    "start_time": "2025-03-26 08:22:13",
+    "status": "Down",
+    "domain": "test.com",
+    "total_scans": 4,
+    "successful_scans": 0,
+    "failed_scans": 4,
+    "last_scan_time": "2025-03-26 09:12:24",
+    "details": "Ping failed, Connection error: timed out",
+    "duration": 1,
+    "progress": "details/2025/03/26/test.com",
+    "extra_json_files": []
+}

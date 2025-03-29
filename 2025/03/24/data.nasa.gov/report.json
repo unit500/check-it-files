@@ -1,0 +1,14 @@
+{
+    "unique_id": 51,
+    "start_time": "2025-03-24 19:13:32",
+    "status": "Up",
+    "domain": "data.nasa.gov",
+    "total_scans": 49,
+    "successful_scans": 49,
+    "failed_scans": 0,
+    "last_scan_time": "2025-03-25 07:12:54",
+    "details": "Ping failed, Connection successful",
+    "duration": 12,
+    "progress": "details/2025/03/24/data.nasa.gov",
+    "extra_json_files": []
+}

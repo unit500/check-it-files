@@ -1,0 +1,14 @@
+{
+    "unique_id": 41,
+    "start_time": "2025-03-24 08:30:29",
+    "status": "Up",
+    "domain": "example.org",
+    "total_scans": 109,
+    "successful_scans": 109,
+    "failed_scans": 0,
+    "last_scan_time": "2025-03-25 08:27:30",
+    "details": "Ping failed, Connection successful",
+    "duration": 24,
+    "progress": "details/2025/03/24/example.org",
+    "extra_json_files": []
+}
