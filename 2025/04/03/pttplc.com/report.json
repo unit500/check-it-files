@@ -1,0 +1,16 @@
+{
+    "unique_id": 77,
+    "start_time": "2025-04-03 13:44:18",
+    "status": "Down",
+    "domain": "pttplc.com",
+    "total_scans": 13,
+    "successful_scans": 0,
+    "failed_scans": 13,
+    "last_scan_time": "2025-04-03 16:25:36",
+    "details": "Ping failed, Connection error: timed out",
+    "duration": 3,
+    "progress": "2025/04/03/pttplc.com",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

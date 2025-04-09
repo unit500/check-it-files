@@ -1,0 +1,16 @@
+{
+    "unique_id": 83,
+    "start_time": "2025-04-07 04:48:38",
+    "status": "Down",
+    "domain": "technion.ac.il",
+    "total_scans": 25,
+    "successful_scans": 0,
+    "failed_scans": 25,
+    "last_scan_time": "2025-04-07 10:41:10",
+    "details": "Ping failed, Connection error: [Errno 111] Connection refused",
+    "duration": 6,
+    "progress": "2025/04/07/technion.ac.il",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

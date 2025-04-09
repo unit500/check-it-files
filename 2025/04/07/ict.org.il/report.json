@@ -1,0 +1,16 @@
+{
+    "unique_id": 80,
+    "start_time": "2025-04-07 04:47:42",
+    "status": "Up",
+    "domain": "ict.org.il",
+    "total_scans": 5,
+    "successful_scans": 5,
+    "failed_scans": 0,
+    "last_scan_time": "2025-04-07 05:44:27",
+    "details": "Ping failed, Connection successful",
+    "duration": 1,
+    "progress": "2025/04/07/ict.org.il",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}
