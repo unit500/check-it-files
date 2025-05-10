@@ -1,0 +1,16 @@
+{
+    "unique_id": 87,
+    "start_time": "2025-04-29 19:23:34",
+    "status": "Up",
+    "domain": "www.boi.org.il",
+    "total_scans": 20,
+    "successful_scans": 20,
+    "failed_scans": 0,
+    "last_scan_time": "2025-04-30 01:05:22",
+    "details": "Ping failed, Connection successful",
+    "duration": 6,
+    "progress": "2025/04/29/www.boi.org.il",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

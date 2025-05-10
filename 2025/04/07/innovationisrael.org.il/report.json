@@ -1,0 +1,16 @@
+{
+    "unique_id": 82,
+    "start_time": "2025-04-07 04:48:20",
+    "status": "Up",
+    "domain": "innovationisrael.org.il",
+    "total_scans": 49,
+    "successful_scans": 49,
+    "failed_scans": 0,
+    "last_scan_time": "2025-04-07 16:42:40",
+    "details": "Ping failed, Connection successful",
+    "duration": 12,
+    "progress": "2025/04/07/innovationisrael.org.il",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}
