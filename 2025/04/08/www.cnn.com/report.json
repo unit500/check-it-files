@@ -1,0 +1,16 @@
+{
+    "unique_id": 84,
+    "start_time": "2025-04-08 06:21:17",
+    "status": "Up",
+    "domain": "www.cnn.com",
+    "total_scans": 49,
+    "successful_scans": 49,
+    "failed_scans": 0,
+    "last_scan_time": "2025-04-08 17:57:25",
+    "details": "Ping failed, Connection successful",
+    "duration": 12,
+    "progress": "2025/04/08/www.cnn.com",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

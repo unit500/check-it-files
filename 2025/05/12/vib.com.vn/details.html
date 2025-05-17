@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Check-It - Scan Details</title>
+  <style>
+    /* Hacker Theme Variables (same as index) */
+    :root {
+      --hacker-background: #121212;
+      --hacker-card: #222222;
+      --hacker-accent: #00FF41;
+      --hacker-secondary: #2E8B57;
+      --hacker-muted: #555555;
+      --hacker-border: #333333;
+      --hacker-text: #E0E0E0;
+      --hacker-error: #FF0000;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Consolas", "Monaco", "Courier New", monospace;
+      background-color: var(--hacker-background);
+      color: var(--hacker-text);
+      line-height: 1.5;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+
+    /* Header */
+    header {
+      background-color: var(--hacker-card);
+      border-bottom: 1px solid rgba(0, 255, 65, 0.3);
+      padding: 1rem 0;
+      position: relative;
+    }
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .logo-area {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    .logo-text {
+      font-size: 1.875rem;
+      font-weight: bold;
+      color: var(--hacker-accent);
+      text-shadow: 0 0 5px rgba(0, 255, 65, 0.7);
+    }
+    nav a {
+      color: var(--hacker-text);
+      text-decoration: none;
+      padding: 0.5rem;
+    }
+    nav a:hover {
+      color: var(--hacker-accent);
+    }
+    .header-intro {
+      max-width: 48rem;
+      margin: 2rem auto;
+      text-align: center;
+    }
+    .header-intro h2 {
+      font-size: 1.5rem;
+      font-weight: 500;
+      color: var(--hacker-accent);
+      margin-bottom: 1rem;
+    }
+
+    /* Main Content */
+    main {
+      flex: 1;
+      padding: 2rem 0;
+    }
+    .summary {
+      margin-bottom: 2rem;
+    }
+    .summary h2 {
+      font-size: 1.5rem;
+      color: var(--hacker-accent);
+      margin-bottom: 1rem;
+    }
+    .summary p {
+      margin: 0.5rem 0;
+      font-size: 1rem;
+    }
+    .progress-container {
+      background-color: var(--hacker-border);
+      border-radius: 4px;
+      overflow: hidden;
+      width: 100%;
+      max-width: 400px;
+      margin-top: 0.5rem;
+    }
+    .progress-bar {
+      height: 1.5rem;
+      background-color: var(--hacker-accent);
+      width: 0%;
+      text-align: center;
+      line-height: 1.5rem;
+      color: var(--hacker-background);
+      transition: width 0.5s ease;
+    }
+
+    /* Charts Section */
+    .charts {
+      display: flex;
+      align-items: flex-start; /* or center */
+      gap: 1rem;
+      margin-top: 2rem;
+      flex-wrap: nowrap; /* keep them in a single row, might overflow if too wide */
+    }
+    .chart-item {
+      flex: 1 1 0;
+      min-width: 0; /* helps with flex overflow */
+    }
+    .chart-item img {
+      width: 100%;
+      border: 1px solid var(--hacker-border);
+      border-radius: 4px;
+      max-height: 300px; /* optional to keep them uniform */
+      object-fit: contain; /* so it scales properly within max-height */
+    }
+
+    /* Footer */
+    footer {
+      background-color: var(--hacker-card);
+      border-top: 1px solid var(--hacker-border);
+      padding: 2rem 0;
+      text-align: center;
+    }
+    footer p {
+      font-size: 0.875rem;
+      color: var(--hacker-text);
+      margin: 0.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-top">
+        <div class="logo-area">
+          <!-- Optional Icon -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" stroke="currentColor"
+               stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="2" width="20" height="8" rx="2" ry="2"></rect>
+            <rect x="2" y="14" width="20" height="8" rx="2" ry="2"></rect>
+          </svg>
+          <h1 class="logo-text">Check-It</h1>
+        </div>
+        <nav>
+          <a href="index.html">Home</a>
+          <a href="report.html">Report</a>
+        </nav>
+      </div>
+      <div class="header-intro">
+        <h2>&gt; Scan Details for vib.com.vn</h2>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <section class="summary">
+        <h2>Scan Summary</h2>
+        
+        <!-- If any field is empty, you can optionally skip it or show "N/A" -->
+        
+          <p><strong>Unique ID:</strong> 93</p>
+        
+        
+        
+          <p><strong>Start Time:</strong> 2025-05-12 09:03:53</p>
+        
+        
+        
+          <p><strong>End Time:</strong> 2025-05-12 09:58:25</p>
+        
+        
+        
+          <p><strong>Status:</strong> Up</p>
+        
+        
+        
+          <p><strong>Duration:</strong> 1 Hours</p>
+        
+        
+        
+          <p><strong>Progress:</strong> 2025/05/12/vib.com.vn</p>
+          <div class="progress-container">
+            <div class="progress-bar" style="width: 2025/05/12/vib.com.vn;">2025/05/12/vib.com.vn</div>
+          </div>
+        
+        
+        
+      </section>
+
+      <!-- Charts in a single row -->
+      <section class="charts">
+        <div class="chart-item">
+          <h3>Timeline</h3>
+          <img src="timeline.png" alt="Timeline Chart">
+        </div>
+        <div class="chart-item">
+          <h3>Pie Chart</h3>
+          <img src="pie_chart.png" alt="Pie Chart">
+        </div>
+        
+      </section>
+      
+      
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>Check-It &copy; 2025 - Open Source DDoS Monitoring</p>
+    </div>
+  </footer>
+</body>
+</html>
