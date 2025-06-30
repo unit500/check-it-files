@@ -1,0 +1,16 @@
+{
+    "unique_id": 88,
+    "start_time": "2025-05-05 08:29:00",
+    "status": "Down",
+    "domain": "www.dacorum.gov.uk",
+    "total_scans": 19,
+    "successful_scans": 0,
+    "failed_scans": 19,
+    "last_scan_time": "2025-05-05 14:28:03",
+    "details": "Ping failed, Connection error: timed out",
+    "duration": 6,
+    "progress": "2025/05/05/www.dacorum.gov.uk",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

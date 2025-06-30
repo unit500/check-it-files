@@ -1,0 +1,16 @@
+{
+    "unique_id": 89,
+    "start_time": "2025-05-05 08:29:18",
+    "status": "Down",
+    "domain": "youraccount.salford.gov.uk",
+    "total_scans": 40,
+    "successful_scans": 0,
+    "failed_scans": 40,
+    "last_scan_time": "2025-05-05 20:21:00",
+    "details": "Ping failed, Connection error: timed out",
+    "duration": 12,
+    "progress": "2025/05/05/youraccount.salford.gov.uk",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

@@ -1,0 +1,16 @@
+{
+    "unique_id": 86,
+    "start_time": "2025-04-08 13:12:30",
+    "status": "Up",
+    "domain": "mitgaisim.idf.il",
+    "total_scans": 12,
+    "successful_scans": 12,
+    "failed_scans": 0,
+    "last_scan_time": "2025-04-08 15:59:49",
+    "details": "Ping failed, Connection successful",
+    "duration": 3,
+    "progress": "2025/04/08/mitgaisim.idf.il",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

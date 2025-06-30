@@ -1,0 +1,16 @@
+{
+    "unique_id": 90,
+    "start_time": "2025-05-05 08:29:34",
+    "status": "Down",
+    "domain": "www.trafford.gov.uk",
+    "total_scans": 3,
+    "successful_scans": 0,
+    "failed_scans": 3,
+    "last_scan_time": "2025-05-05 09:25:59",
+    "details": "Ping failed, Connection error: timed out",
+    "duration": 1,
+    "progress": "2025/05/05/www.trafford.gov.uk",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}

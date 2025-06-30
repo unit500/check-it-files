@@ -1,0 +1,16 @@
+{
+    "unique_id": 92,
+    "start_time": "2025-05-05 09:56:48",
+    "status": "Up",
+    "domain": "keswicktowncouncil.gov.uk",
+    "total_scans": 41,
+    "successful_scans": 41,
+    "failed_scans": 0,
+    "last_scan_time": "2025-05-05 21:47:57",
+    "details": "Ping failed, Connection successful",
+    "duration": 12,
+    "progress": "2025/05/05/keswicktowncouncil.gov.uk",
+    "extra_json_files": [],
+    "check_details": null,
+    "attacked_country": ""
+}
